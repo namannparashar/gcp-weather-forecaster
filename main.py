@@ -69,7 +69,7 @@ def main(cloud_event):
 
     df_aq = pd.DataFrame({
         'timestamp': pd.to_datetime(data_aq['hourly']['time']),
-        'PM2.5': data_aq['hourly']['pm2_5']
+        'PM2_5': data_aq['hourly']['pm2_5']
     })
     df_aq.set_index('timestamp', inplace=True)
 
