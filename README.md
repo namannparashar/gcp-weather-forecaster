@@ -11,7 +11,7 @@ A robust, serverless ETL pipeline that automatically fetches, cleans, and stores
 
 ## 🎯 Project Goals
 * **Primary Goal:** To learn and build a Serverless ETL pipeline in Google Cloud Platform (GCP).
-* **Secondary Goal:** To aggregate historical Delhi PM2.5 data for univariate and multivariate Time-Series Forecasting.
+* **Secondary Goal:** To aggregate historical Delhi PM2.5 data for multivariate Time-Series Forecasting using [MLforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html) library
 
 ---
 
